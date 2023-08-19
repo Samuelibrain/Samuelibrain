@@ -29,7 +29,7 @@ Groovy 6 minutes ▒░░░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 If you'd like to support me, you can consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/Samuelibrain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/github.com/Samuelibrain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
